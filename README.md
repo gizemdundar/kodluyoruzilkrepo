@@ -33,5 +33,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## Linkler
 
 [Patika](www.patika.dev)
+
 [Patika Profilim](https://app.patika.dev/gizemsd)
+
 [GitHub Profilim](https://github.com/gizemdundar)
